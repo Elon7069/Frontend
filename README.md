@@ -176,7 +176,7 @@ npm start
 
 ## 🧠 AI Tools Used
 
-This project was built using **Cursor AI** as the primary development assistant, helping with:
+This project was built using **Lovable AI** as the primary development assistant, helping with:
 - Component architecture and structure
 - TypeScript interfaces and typing
 - MUI theme configuration
